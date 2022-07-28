@@ -1,8 +1,6 @@
 <h1 align="center">Bonjour👋, je suis Mathis Boulais</h1>
 <h3 align="center">passionné de code depuis longtemps.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asukyy" alt="asukyy" /></a> </p>
-
 - 🔭 I’m currently working on **web site**
 
 - 🌱 I’m currently learning **PHP**
