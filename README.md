@@ -12,10 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asukii___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asukii___" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mathis boulais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathis boulais" height="30" width="40" /></a>
-<a href="https://instagram.com/mathis.bls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathis.bls" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asukyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asukyy" height="30" width="40" /></a>
-<a href="https://discord.gg/Asukyy#7935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asukyy#7935" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mathis-boulais-0974a0213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathis boulais" height="30" width="40" /></a>
+<a href="https://instagram.com/mathis.bls_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mathis.bls" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCjD_GOf296r_uj1Xa0FAu4Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asukyy" height="30" width="40" /></a>
+<a href="https://discord.gg/KyCZdPj8X3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Asukyy#7935" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
