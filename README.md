@@ -17,9 +17,9 @@ Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passion
 
 | Type        | Langages / Technologies                |
 |-------------|----------------------------------------|
-| **Front-End** | <code>**JavaScript**</code>, <code>**TypeScript**</code>, <code>**React**</code>, <code>**React Native**</code> |
-| **Back-End**  | <code>**PHP**</code>, <code>**Symfony**</code>, <code>**Django (Python)**</code> |
-| **POO**       | <code>**C#**</code>, <code>**C++**</code>, <code>**Java**</code> |
+| **Front-End** | ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2361dafb.svg?style=for-the-badge&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-%2361dafb.svg?style=for-the-badge&logo=react&logoColor=black) |
+| **Back-End**  | ![PHP](https://img.shields.io/badge/PHP-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) |
+| **POO**       | ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599c.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23f89820.svg?style=for-the-badge&logo=oracle&logoColor=white) |
 
 ### 🐳 Outils et environnement
 - **Docker** : Pour le déploiement d'applications conteneurisées
