@@ -38,6 +38,6 @@ Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passion
 
 ## 🌍 Me contacter
 - **Email** : mathis.oxym@gmail.com
-- **LinkedIn** : ([https://www.linkedin.com/in/ton-profil]https://www.linkedin.com/in/mathis-boulais-0974a0213)
+- **LinkedIn** : [LinkedIn Profil](https://www.linkedin.com/in/mathis-boulais-0974a0213)
   
 N'hésite pas à me contacter pour des collaborations ou des discussions sur des projets techniques !
