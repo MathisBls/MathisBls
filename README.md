@@ -1,40 +1,40 @@
-# <span style="color:#c73674;">👋 Salut, je m'appelle **Mathis** !</span> 
+# 👋 Salut, je m'appelle **Mathis** ! 
 
 Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passionné, spécialisé dans le développement web et la programmation orientée objet. J'explore actuellement les technologies et frameworks orientés objet pour améliorer mes compétences et mes projets.
 
 ---
 
-## <span style="color:#c73674;">🚀 À propos de moi</span>
+## 🚀 À propos de moi
 - 🔭 **Actuellement** : Je travaille sur des projets utilisant des langages orientés objet comme **C#**, **C++**, et **Java**.
 - 🌱 **En cours d'exploration** : Des frameworks modernes pour le développement web tels que **React**, **React Native**, **Symfony**, et **Django**.
 - 👨‍💻 **Curiosité** : Toujours prêt à découvrir de nouvelles technologies et à améliorer mes compétences en tant que développeur Full Stack.
 
 ---
 
-## <span style="color:#c73674;">💼 Compétences techniques</span>
+## 💼 Compétences techniques
 
-### <span style="color:#c73674;">🌐 Langages et technologies web</span>
+### 🌐 Langages et technologies web
 
-| Type        | Langages / Technologies            |
-|-------------|------------------------------------|
-| **Front-End** | JavaScript, TypeScript, React, React Native |
-| **Back-End**  | PHP, Symfony, Django (Python)     |
-| **POO**       | C#, C++, Java                     |
+| Type        | Langages / Technologies                |
+|-------------|----------------------------------------|
+| **Front-End** | <code>**JavaScript**</code>, <code>**TypeScript**</code>, <code>**React**</code>, <code>**React Native**</code> |
+| **Back-End**  | <code>**PHP**</code>, <code>**Symfony**</code>, <code>**Django (Python)**</code> |
+| **POO**       | <code>**C#**</code>, <code>**C++**</code>, <code>**Java**</code> |
 
-### <span style="color:#c73674;">🐳 Outils et environnement</span>
+### 🐳 Outils et environnement
 - **Docker** : Pour le déploiement d'applications conteneurisées
 - **Git & GitHub** : Gestion de versions et collaboration
 
 ---
 
-## <span style="color:#c73674;">📊 Statistiques GitHub</span>
+## 📊 Statistiques GitHub
 
 ![MathisBls' GitHub stats](https://github-readme-stats.vercel.app/api?username=MathisBls&show_icons=true&theme=radical&v=1)
 [![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=MathisBls&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## <span style="color:#c73674;">🌍 Me contacter</span>
+## 🌍 Me contacter
 - **Email** : [mathis.oxym@gmail.com](mailto:mathis.oxym@gmail.com)
 - **LinkedIn** : [Mon Profil LinkedIn](https://www.linkedin.com/in/mathis-boulais-0974a0213)
 
