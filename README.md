@@ -2,8 +2,7 @@
 
 Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passionné avec une expertise en développement web et en programmation orientée objet. J'explore actuellement les technologies et frameworks orientés objet pour renforcer mes compétences et mes projets.
 
-![Mathis](https://user-images.githubusercontent.com/your-image-link) <!-- Remplace ce lien avec l'URL de ton animation -->
-
+![Mathis](https://giphy.com/gifs/KingOfDestiny-kod-infinigods-kingofdestiny-pqMSyHmekA1Qe7Utp7)
 ---
 
 ## 🚀 À propos de moi
