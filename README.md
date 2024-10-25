@@ -29,8 +29,8 @@ Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passion
 
 ## 📊 Statistiques GitHub
 
-![MathisBls' GitHub stats](https://github-readme-stats.vercel.app/api?username=MathisBls&show_icons=true&theme=dracula&v=1)
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=MathisBls&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+![MathisBls' GitHub stats](https://github-readme-stats.vercel.app/api?username=MathisBls&show_icons=true&theme=radical&v=1)
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=MathisBls&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
