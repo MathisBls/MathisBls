@@ -1,4 +1,4 @@
-<h1 style="color:#c73674;">👋 Salut, je m'appelle Mathis !</h1>
+# 👋 Salut, je m'appelle **Mathis** ! 
 
 Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passionné, spécialisé dans le développement web et la programmation orientée objet. J'explore actuellement les technologies et frameworks orientés objet pour améliorer mes compétences et mes projets.
 
