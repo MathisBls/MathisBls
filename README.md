@@ -1,6 +1,6 @@
 # 👋 Salut, je m'appelle Mathis ! 
 
-Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passionné avec une expertise en développement web et en programmation orientée objet. J'explore en ce moment les technologies et frameworks orientés objet pour renforcer mes compétences et mes projets.
+Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passionné avec une expertise en développement web et en programmation orientée objet. J'explore actuellement les technologies et frameworks orientés objet pour renforcer mes compétences et mes projets.
 
 ![Mathis](https://user-images.githubusercontent.com/your-image-link) <!-- Remplace ce lien avec l'URL de ton animation -->
 
@@ -31,13 +31,13 @@ Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passion
 
 ## 📊 Statistiques GitHub
 
-![Mathis' GitHub stats](https://github-readme-stats.vercel.app/api?username=TonNomDutilisateur&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomDutilisateur&layout=compact&theme=radical)
+![MathisBls' GitHub stats](https://github-readme-stats.vercel.app/api?username=MathisBls&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathisBls&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Me contacter
-- **Email** : ton-email@example.com
-- **LinkedIn** : [LinkedIn Profil](https://www.linkedin.com/in/ton-profil)
+- **Email** : mathis.oxym@gmail.com
+- **LinkedIn** : [LinkedIn Profil]([https://www.linkedin.com/in/ton-profil](https://www.linkedin.com/in/mathis-boulais-0974a0213)
   
 N'hésite pas à me contacter pour des collaborations ou des discussions sur des projets techniques !
