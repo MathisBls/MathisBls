@@ -32,6 +32,7 @@ Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passion
 ## 📊 Statistiques GitHub
 
 ![MathisBls' GitHub stats](https://github-readme-stats.vercel.app/api?username=MathisBls&show_icons=true&theme=radical&v=1)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MathisBls&theme=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathisBls&layout=compact&theme=radical)
 
 ---
