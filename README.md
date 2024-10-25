@@ -1,4 +1,4 @@
-# 👋 Salut, je m'appelle **Mathis** ! 
+![👋 Salut, je m'appelle Mathis !](https://img.shields.io/badge/-Salut%2C%20je%20m'appelle%20Mathis%20!-c73674?style=for-the-badge)
 
 Bienvenue sur mon profil GitHub ! Je suis un **Développeur Full Stack** passionné, spécialisé dans le développement web et la programmation orientée objet. J'explore actuellement les technologies et frameworks orientés objet pour améliorer mes compétences et mes projets.
 
