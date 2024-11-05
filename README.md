@@ -1,6 +1,6 @@
 # 👋 Salut, je m'appelle **Mathis** ! 
 
-Je suis un **Développeur Full Stack** passionné, avec un penchant pour le développement web et la programmation orientée objet. Mon objectif ? Repousser les limites de ce que je peux créer avec du code !
+Ici, vous trouverez un **Développeur Full Stack** qui essaie de ne pas se perdre dans les méandres du code ! Passionné par le développement web et la programmation orientée objet, je suis ici pour transformer des idées en lignes de code.
 
 ---
 
