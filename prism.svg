@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-labelledby="t d">
+  <title id="t">Mathis Boulais</title>
+  <desc id="d">A beam of white light goes through a prism and splits into seven rays. Each ray lands on a project.</desc>
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.02"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .title { font: 400 46px Georgia, 'Times New Roman', serif; fill: #ededf0; letter-spacing: -1px; }
+    .sub, .label, .foot { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .sub { font-size: 12px; fill: #8b8b95; letter-spacing: 2px; }
+    .label { font-size: 12.5px; fill: #c9c9d0; }
+    .label tspan { fill: #ededf0; font-weight: 700; }
+    .foot { font-size: 12px; fill: #65656e; letter-spacing: 1px; }
+    .beam, .inner, .prism, .ray { fill: none; stroke-linecap: round; }
+    .beam { stroke: #fff; stroke-width: 3; stroke-dasharray: 300; stroke-dashoffset: 300; animation: draw .9s ease-out .3s forwards; }
+    .inner { stroke: #fff; stroke-width: 2; opacity: .55; stroke-dasharray: 90; stroke-dashoffset: 90; animation: draw .3s linear 1.15s forwards; }
+    .prism { stroke: #ededf0; stroke-width: 1.5; fill: url(#glass); stroke-dasharray: 440; stroke-dashoffset: 440; animation: draw 1.4s cubic-bezier(.22,1,.36,1) forwards; }
+    .ray { stroke-width: 2.5; stroke-dasharray: 260; stroke-dashoffset: 260; animation: draw .8s cubic-bezier(.22,1,.36,1) forwards; }
+    .label, .title, .sub, .foot { opacity: 0; animation: show .6s ease-out forwards; }
+    .title { animation-delay: .1s; } .sub { animation-delay: .35s; } .foot { animation-delay: 2.6s; }
+    .rays { animation: breathe 5s ease-in-out 3s infinite; }
+    .r1 { animation-delay: 1.35s; } .r2 { animation-delay: 1.45s; } .r3 { animation-delay: 1.55s; } .r4 { animation-delay: 1.65s; }
+    .r5 { animation-delay: 1.75s; } .r6 { animation-delay: 1.85s; } .r7 { animation-delay: 1.95s; }
+    .l1 { animation-delay: 1.8s; } .l2 { animation-delay: 1.9s; } .l3 { animation-delay: 2s; } .l4 { animation-delay: 2.1s; }
+    .l5 { animation-delay: 2.2s; } .l6 { animation-delay: 2.3s; } .l7 { animation-delay: 2.5s; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes breathe { 50% { opacity: .78; } }
+    @media (prefers-reduced-motion: reduce) {
+      .beam, .inner, .prism, .ray, .label, .title, .sub, .foot, .rays { animation: none; stroke-dashoffset: 0; opacity: 1; }
+      .inner { opacity: .55; }
+    }
+  </style>
+
+  <rect width="900" height="400" fill="#0a0a0c"/>
+
+  <text class="title" x="46" y="82">Mathis Boulais</text>
+  <text class="sub" x="49" y="110">FULL-STACK DEVELOPER · PARIS · FREELANCE</text>
+
+  <!-- Lumière blanche : entre par la face gauche, traverse le verre, sort par la face droite -->
+  <line class="beam" x1="0" y1="244" x2="290" y2="240"/>
+  <line class="inner" x1="290" y1="240" x2="375" y2="250"/>
+  <polygon class="prism" points="330,160 398,296 262,296"/>
+
+  <!-- Spectre : un rayon par projet -->
+  <g class="rays" filter="url(#glow)">
+    <line class="ray r1" x1="375" y1="250" x2="604" y2="150" stroke="#ff5f6d"/>
+    <line class="ray r2" x1="375" y1="250" x2="604" y2="182" stroke="#ff9f45"/>
+    <line class="ray r3" x1="375" y1="250" x2="604" y2="214" stroke="#ffd23f"/>
+    <line class="ray r4" x1="375" y1="250" x2="604" y2="246" stroke="#3ee6a0"/>
+    <line class="ray r5" x1="375" y1="250" x2="604" y2="278" stroke="#22d3ee"/>
+    <line class="ray r6" x1="375" y1="250" x2="604" y2="310" stroke="#a78bfa"/>
+    <line class="ray r7" x1="375" y1="250" x2="604" y2="342" stroke="#f472b6"/>
+  </g>
+
+  <text class="label l1" x="618" y="154"><tspan>Wegir</tspan> · convoy GPS, App Store</text>
+  <text class="label l2" x="618" y="186"><tspan>Zephyr</tspan> · open-source mod manager</text>
+  <text class="label l3" x="618" y="218"><tspan>Game Factory</tspan> · AI agents make games</text>
+  <text class="label l4" x="618" y="250"><tspan>Meme Rina</tspan> · a pizzeria's website</text>
+  <text class="label l5" x="618" y="282"><tspan>Fitness app</tspan> · client, in progress</text>
+  <text class="label l6" x="618" y="314"><tspan>NicePrice</tspan> · best prices in Steam</text>
+  <text class="label l7" x="618" y="346"><tspan>Next</tspan> · your idea →</text>
+
+  <text class="foot" x="49" y="362">mathisboulais.com</text>
+</svg>
