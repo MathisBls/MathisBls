@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 212" width="440" height="212" role="img" aria-labelledby="t">
+  <title id="t">Meme Rina: Website of a neighbourhood pizzeria in Chatou: menu, table booking, delivery.</title>
+  <style>
+    .label, .stack { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .label { font-size: 10.5px; letter-spacing: 1.6px; fill: #8b8b95; }
+    .index { fill: #3ee6a0; }
+    .name { font: 400 33px Georgia, 'Times New Roman', serif; fill: #ededf0; letter-spacing: -0.6px; }
+    .desc { font: 14px -apple-system, 'Segoe UI', system-ui, Roboto, Helvetica, Arial, sans-serif; fill: #b4b4bc; }
+    .stack { font-size: 11px; fill: #8b8b95; }
+    .arrow { font: 16px -apple-system, 'Segoe UI', system-ui, sans-serif; fill: #3ee6a0; }
+    .line { stroke: #3ee6a0; stroke-width: 3; stroke-dasharray: 440; stroke-dashoffset: 440; animation: draw 1.1s cubic-bezier(.22,1,.36,1) 0.6499999999999999s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .line { animation: none; stroke-dashoffset: 0; } }
+  </style>
+  <rect width="440" height="212" fill="#0a0a0c"/>
+  <line class="line" x1="0" y1="1.5" x2="440" y2="1.5"/>
+  <text class="label" x="28" y="42"><tspan class="index">04</tspan>  WEBSITE · CLIENT</text>
+  <text class="arrow" x="404" y="44">↗</text>
+  <text class="name" x="26" y="88">Meme Rina</text>
+  <text class="desc" x="28" y="122">Website of a neighbourhood pizzeria in</text>
+  <text class="desc" x="28" y="143">Chatou: menu, table booking, delivery.</text>
+  <text class="stack" x="28" y="186">Next.js · React · Netlify</text>
+</svg>

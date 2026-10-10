@@ -1,41 +1,46 @@
-# 👋 Hi, my name is **Mathis**!
+<p align="center">
+  <img src="./prism.svg" width="100%" alt="A beam of white light goes through a prism and splits into seven rays. Each ray lands on a project: Wegir, Zephyr, Game Factory, Meme Rina, my portfolio, NicePrice, and the next one.">
+</p>
 
-Too lazy to write but basically, I am a **Full Stack Developer** and I am here to turn ideas into lines of code.
+I'm Mathis, a developer in Choisy-le-Roi, just outside Paris. I build websites and mobile apps, and since October 2026 I do it as a freelancer.
 
----
+The banner is the idea behind [my portfolio](https://mathisboulais.com): one idea goes in, projects come out. Each ray has its card below.
 
-## 🚀 About Me
-- 🔭 **Currently**: I am working on projects using object-oriented languages like **C#**, **C++**, and **Java**.
-- 🌱 **Exploring**: Modern frameworks for web development such as **React**, **React Native**, **Symfony**, and **Django**.
-- 👨‍💻 **Curiosity**: Always ready to discover new technologies and improve my skills as a Full Stack Developer.
+<br>
 
----
+<p align="center">
+  <a href="https://wegir.com"><img src="./cards/wegir.svg" width="49%" alt="Wegir: GPS for driving in a convoy, on the App Store. React Native, Expo, Express, Prisma, MapLibre."></a>
+  <a href="https://github.com/prismo-studio/zephyr"><img src="./cards/zephyr.svg" width="49%" alt="Zephyr: open-source desktop mod manager. Tauri 2, Svelte 5, Rust."></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Prismo-Studio/game-factory"><img src="./cards/game-factory.svg" width="49%" alt="Game Factory: AI agents turn an idea into a Godot mobile game. Claude Code, GitHub Actions, Godot 4, Docker."></a>
+  <a href="https://www.memerina.fr"><img src="./cards/meme-rina.svg" width="49%" alt="Meme Rina: website of a neighbourhood pizzeria in Chatou. Next.js, React, Netlify."></a>
+</p>
+<p align="center">
+  <a href="https://mathisboulais.com"><img src="./cards/portfolio.svg" width="49%" alt="mathisboulais.com: my portfolio, a 3D prism you scroll through. React, Three.js, GSAP, TypeScript."></a>
+  <a href="https://github.com/MathisBls/NicePrice"><img src="./cards/niceprice.svg" width="49%" alt="NicePrice: best prices from 30+ stores inside Steam, a Millennium plugin. TypeScript, Lua."></a>
+</p>
 
-## 💼 Technical Skills
+<br>
 
-### 🌐 Web Languages and Technologies
+### What I write in
 
-| Type        | Languages / Technologies                |
-|-------------|----------------------------------------|
-| **Front-End** | ![JavaScript](https://img.shields.io/badge/JavaScript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-%2361dafb.svg?style=for-the-badge&logo=react&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-%2361dafb.svg?style=for-the-badge&logo=react&logoColor=black) |
-| **Back-End**  | ![PHP](https://img.shields.io/badge/PHP-%23777bb4.svg?style=for-the-badge&logo=php&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white) |
-| **OOP**       | ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599c.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23f89820.svg?style=for-the-badge&logo=oracle&logoColor=white) |
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,rust,svelte,tauri,threejs,nextjs,prisma,docker,godot&theme=dark" alt="TypeScript, React and React Native, Node.js, Rust, Svelte, Tauri, Three.js, Next.js, Prisma, Docker, Godot">
+</p>
 
-### 🐳 Tools and Environment
-- **Docker**: For deploying containerized applications
-- **Git & GitHub**: Version control and collaboration
+TypeScript every day, React and React Native for most projects, Rust and Svelte when it's a desktop app.
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,java,php,symfony,py,django&theme=dark" alt="C#, C++, Java, PHP, Symfony, Python, Django">
+</p>
 
-## 📊 GitHub Stats
+Where I started: C#, C++ and Java, then PHP with Symfony and Python with Django.
 
-![MathisBls' GitHub stats](https://github-readme-stats.vercel.app/api?username=MathisBls&show_icons=true&theme=radical&v=1)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MathisBls&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
----
+### Contact
 
-## 🌍 Contact Me
-- **Email**: [mathis.oxym@gmail.com](mailto:mathis.oxym@gmail.com)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/mathis-boulais-0974a0213)
+Got a project? Write to me, I reply within 24 hours.
 
-Feel free to contact me for collaborations or discussions on technical projects!
+[contact@mathisboulais.com](mailto:contact@mathisboulais.com) · [LinkedIn](https://www.linkedin.com/in/mathis-boulais-0974a0213) · [mathisboulais.com](https://mathisboulais.com)
